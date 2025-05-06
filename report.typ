@@ -20,6 +20,9 @@
 // show all instances of Humatek in oblique
 #show "Humatek": it => { text(it, style: "oblique") }
 
+// allow breakable tables
+// #show figure.where(kind: table): set block(breakable: true)
+
 
 #include("parts/introduccion.typ")
 #include("parts/alcance.typ")

@@ -15,7 +15,7 @@ En Humatek, nuestra visión es clara: crear un mundo donde cada persona pueda vi
 #figure(
   image("/img/DAFO.drawio.svg", width: 70%),
   caption: "Análisis DAFO"
-)
+) <fig:dafo>
 
 
 == Líneas estratégicas
@@ -50,7 +50,7 @@ Imaginamos un mundo donde la tecnología amplifica la humanidad, ofreciendo inde
 #figure(
   image("/img/canvas.drawio.svg", width: 90%),
   caption: "Modelo de Negocio Canvas"
-)
+) <fig:canvas>
 
 
 == Descripción general del proyecto

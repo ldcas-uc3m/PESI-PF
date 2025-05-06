@@ -1,6 +1,5 @@
 #import "/authors.typ": authors
 
-
 = Estructura Organizativa del Proyecto
 
 // Organigrama del equipo del proyecto, incluyendo roles y responsabilidades.
@@ -8,12 +7,12 @@
 #figure(
   image("/img/estructura_organizacional_startup.drawio.svg", width: 90%),
   caption: "Estructura organizativa en la fase inicial del proyecto"
-)
+) <fig:estructura-madura>
 
 #figure(
   image("/img/estructura_organizacional.drawio.svg", width: 90%),
   caption: "Estructura organizativa en la fase de madurez del proyecto"
-)
+) <fig:estructura-madura>
 
 // Identificación de partes interesadas clave y sus roles en el proyecto
 
@@ -47,4 +46,4 @@
     }
   ),
   caption: "Roles del proyecto"
-)
+) <tab:roles>
