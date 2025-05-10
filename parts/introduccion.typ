@@ -55,6 +55,18 @@ Imaginamos un mundo donde la tecnología amplifica la humanidad, ofreciendo inde
 
 == Descripción general del proyecto
 
-// Objetivos del proyecto y su alineación con los objetivos estratégicos
+El proyecto consiste en el desarrollo y lanzamiento al mercado de un robot humanoide de última generación diseñado específicamente para brindar asistencia personalizada a personas mayores y con diversidad funcional en entornos domésticos e institucionales. Este proyecto representa la materialización de nuestra visión empresarial, con lineas de investigación en inteligencia artificial, robótica avanzada e interfaces humano-máquina.
 
-// Importancia del proyecto dentro del contexto de las misiones espaciales y la exploración del espacio
+=== Objetivos del proyecto
+El desarrollo tecnológico se centra en la creación de un robot humanoide con capacidades avanzadas de movilidad, reconocimiento facial y emocional, comunicación natural y asistencia física adaptativa. La personalización asistencial se logra mediante la implementación de sistemas de IA capaces de aprender las rutinas, preferencias y necesidades específicas de cada usuario. La interconectividad se aborda integrando el robot con sistemas domóticos y dispositivos médicos de monitorización para crear un ecosistema de cuidado integral. Por otro lado, la validación clínica implica colaborar con centros médicos para evaluar y validar la eficacia y seguridad del robot en entornos reales. Finalmente, el modelo de servicio sostenible busca desarrollar un modelo de comercialización que combine la venta de hardware con servicios de suscripción y actualizaciones.
+
+=== Alineación estratégica
+Este proyecto representa la convergencia de nuestras cuatro líneas estratégicas principales:
+- Materializa nuestra apuesta por la innovación tecnológica continua.
+- Aplica nuestro enfoque de diseño centrado en el usuario para crear soluciones que atiendan necesidades reales.
+- Contribuye a la transformación del sector de cuidado asistencial mediante tecnologías disruptivas.
+- Se nutre de colaboraciones con centros de investigación y universidades para incorporar los últimos avances.
+
+=== Impacto esperado
+Aspiramos a transformar el paradigma actual del cuidado asistencial, ofreciendo una solución que no solo proporciona asistencia física sino también acompañamiento emocional. El proyecto busca incrementar la autonomía y calidad de vida de personas dependientes, a la vez que reduce la carga sobre cuidadores familiares y profesionales. Nuestro objetivo es disminuir los índices de soledad y sus efectos adversos sobre la salud, permitiendo a millones de personas, que de otro modo necesitarían cuidados en centros especializados, vivir en sus casas. Además, estamos comprometidos con crear un modelo económico sostenible que permita hacer accesible esta tecnología a sectores cada vez más amplios de la población, facilitando el acceso a soluciones de cuidado avanzadas.
+
