@@ -21,21 +21,13 @@ Nuestro enfoque se basa en tres principios fundamentales:
 == Procesos de Aseguramiento de Calidad
 
 === Diseño y Desarrollo
-- Revisiones por pares del código y los diseños mecánicos
-- Verificación de requisitos en cada fase de desarrollo
-- Modelado y simulación previa a la construcción física de componentes críticos
+Durante las fases de diseño y desarrollo, implementaremos revisiones por pares sistemáticas tanto del código como de los diseños mecánicos. Cada fase de desarrollo incorporará verificaciones de requisitos para asegurar la alineación con las especificaciones originales. Para los componentes críticos, realizaremos modelado y simulación previa a la construcción física, permitiendo detectar posibles problemas antes de comprometer recursos a la fabricación.
 
 === Fabricación y Ensamblaje
-- Inspección 100% para elementos relacionados con la seguridad
-- Trazabilidad completa de componentes mediante sistema de serialización
-- Ambiente controlado para ensamblaje de componentes electrónicos sensibles
+En la fabricación y ensamblaje, estableceremos un régimen de inspección completa para todos los elementos relacionados con la seguridad, sin excepción. Implementaremos un sistema de serialización que garantice la trazabilidad completa de componentes a lo largo de toda la cadena de suministro y vida útil del producto. El ensamblaje de componentes electrónicos sensibles se realizará exclusivamente en ambientes controlados que cumplan con los estándares industriales de limpieza y control electrostático.
 
 === Pruebas y Validación
-- Pruebas unitarias automatizadas para todos los módulos de software
-- Pruebas de integración para verificar la correcta interacción entre sistemas
-- Pruebas de ciclo completo para validar durabilidad y resistencia
-- Pruebas de seguridad eléctrica y mecánica según norma ISO 13482
-- Validación con usuarios reales en entornos controlados y domésticos
+Nuestro proceso de validación comprende múltiples niveles. Iniciaremos con pruebas unitarias automatizadas para todos los módulos de software, seguidas por pruebas de integración que verificarán la correcta interacción entre sistemas. Incorporaremos pruebas de ciclo completo para validar durabilidad y resistencia bajo condiciones de uso prolongado. Todas las funciones de seguridad eléctrica y mecánica serán verificadas según la norma ISO 13482. Finalmente, realizaremos validaciones con usuarios reales tanto en entornos controlados como domésticos, recogiendo información valiosa sobre usabilidad y experiencia de usuario.
 
 == Control de Calidad y Estándares
 
@@ -70,7 +62,7 @@ Se desarrollará y mantendrá actualizada la siguiente documentación de calidad
 - *Informes de No Conformidades*: Registro de problemas detectados y acciones correctivas
 - *Certificados de Cumplimiento*: Documentación oficial de conformidad con estándares
 
-Esta documentación complementará los entregables documentales especificados en el alcance del proyecto, asegurando una trazabilidad completa del cumplimiento de requisitos de calidad.
+Esta documentación complementará los entregables documentales especificados en el alcance del proyecto, asegurando una trazabilidad completa del cumplimiento de requisitos de calidad a lo largo de todo el ciclo de desarrollo.
 
 == Métricas de Calidad
 
@@ -112,4 +104,4 @@ Implementaremos un proceso estructurado de mejora continua que incluye:
 - Revisiones post-fase para identificar oportunidades de optimización
 - Auditorías periódicas de procesos y resultados
 
-Este enfoque garantizará que tanto el producto como los procesos evolucionen constantemente para alcanzar niveles superiores de calidad y eficiencia.
+Este enfoque integral garantizará que tanto el producto como los procesos evolucionen constantemente para alcanzar niveles superiores de calidad y eficiencia, alineados con nuestra filosofía de excelencia y compromiso con los usuarios finales.
