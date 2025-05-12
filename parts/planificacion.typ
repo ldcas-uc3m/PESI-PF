@@ -1,3 +1,5 @@
+#import "@preview/oxifmt:0.2.1": strfmt
+
 = Planificación del Proyecto
 
 == Fases del Proyecto y Cronograma
@@ -47,19 +49,22 @@ El desarrollo del robot humanoide asistencial se estructurará en cinco fases pr
 
 El proyecto requiere un equipo multidisciplinar compuesto por 32 profesionales:
 
-#table(
-  columns: (auto, auto, auto),
-  inset: 10pt,
-  align: (left, left, center),
-  [*Departamento*], [*Roles*], [*Personal*],
-  [Ingeniería Mecánica], [Diseñadores mecánicos, especialistas en robótica], [5],
-  [Ingeniería Electrónica], [Ingenieros de hardware, especialistas en sensores], [5],
-  [Desarrollo de Software], [Desarrolladores de IA, programadores de sistemas, UX/UI], [8],
-  [Control de Calidad], [Ingenieros de pruebas, especialistas en validación], [4],
-  [Certificación y Normativa], [Especialistas regulatorios y de seguridad], [2],
-  [Marketing y Ventas], [Especialistas en marketing, ventas y soporte], [4],
-  [Dirección de Proyecto], [Director de proyecto, PMO], [2],
-  [Operaciones], [Especialistas en cadena de suministro y producción], [2],
+#figure(
+  table(
+    columns: 3,
+    inset: 10pt,
+    align: (left, left, center),
+    [*Departamento*], [*Roles*], [*Personal*],
+    [Ingeniería Mecánica], [Diseñadores mecánicos, especialistas en robótica], [5],
+    [Ingeniería Electrónica], [Ingenieros de hardware, especialistas en sensores], [5],
+    [Desarrollo de Software], [Desarrolladores de IA, programadores de sistemas, UX/UI], [8],
+    [Control de Calidad], [Ingenieros de pruebas, especialistas en validación], [4],
+    [Certificación y Normativa], [Especialistas regulatorios y de seguridad], [2],
+    [Marketing y Ventas], [Especialistas en marketing, ventas y soporte], [4],
+    [Dirección de Proyecto], [Director de proyecto, PMO], [2],
+    [Operaciones], [Especialistas en cadena de suministro y producción], [2],
+  ),
+  caption: "Definición de los distintos departamentos"
 )
 
 La estructura organizativa seguirá un modelo matricial, donde los miembros del equipo reportarán tanto a sus responsables funcionales como al director del proyecto.
@@ -68,17 +73,20 @@ La estructura organizativa seguirá un modelo matricial, donde los miembros del 
 
 El presupuesto total del proyecto asciende a 8,4 millones de euros, distribuidos de la siguiente manera:
 
-#table(
-  columns: (auto, auto, auto),
-  inset: 10pt,
-  align: (left, center, right),
-  [*Categoría*], [*Porcentaje*], [*Importe (€)*],
-  [Personal], [45%], [3.780.000],
-  [Equipamiento y herramientas], [20%], [1.680.000],
-  [Materiales y componentes], [15%], [1.260.000],
-  [Certificaciones y cumplimiento normativo], [8%], [672.000],
-  [Marketing y lanzamiento], [7%], [588.000],
-  [Contingencia], [5%], [420.000],
+#figure(
+  table(
+    columns: 3,
+    inset: 10pt,
+    align: (left, center, right),
+    [*Categoría*], [*Porcentaje*], [*Importe (€)*],
+    [Personal], [45%], [3.780.000],
+    [Equipamiento y herramientas], [20%], [1.680.000],
+    [Materiales y componentes], [15%], [1.260.000],
+    [Certificaciones y cumplimiento normativo], [8%], [672.000],
+    [Marketing y lanzamiento], [7%], [588.000],
+    [Contingencia], [5%], [420.000],
+  ),
+  caption: "Presupuesto del proyecto"
 )
 
 La financiación proviene de una combinación de capital propio de la empresa (40%), financiación externa de inversores (35%) y subvenciones de innovación (25%).
@@ -98,19 +106,23 @@ Para el desarrollo del proyecto se requerirán:
 
 Los principales riesgos identificados para el proyecto son:
 
-#table(
-  columns: (auto, auto, auto),
-  inset: 10pt,
-  align: (left, center, left),
-  [*Riesgo*], [*Impacto*], [*Probabilidad*],
-  [Retrasos en el desarrollo de algoritmos de IA], [Alto], [Media],
-  [Problemas de integración entre sistemas mecánicos y electrónicos], [Alto], [Media],
-  [Dificultades para obtener certificaciones regulatorias], [Crítico], [Media],
-  [Problemas en la cadena de suministro de componentes clave], [Alto], [Media-alta],
-  [Costes superiores a los presupuestados], [Medio], [Media],
-  [Rendimiento de batería inferior al esperado], [Alto], [Baja],
-  [Aceptación de usuario final inferior a la prevista], [Crítico], [Baja],
-  [Aparición de competidores con tecnologías similares], [Medio], [Media],
+#let i = 1
+#figure(
+  table(
+    columns: 4,
+    inset: 10pt,
+    align: (center, left, center, left),
+    [*ID*], [*Descripción*], [*Impacto*], [*Probabilidad*],
+    [R#{strfmt("{:02}", i); i += 1}], [Retrasos en el desarrollo de algoritmos de IA], [Alto], [Media],
+    [R#{strfmt("{:02}", i); i += 1}], [Problemas de integración entre sistemas mecánicos y electrónicos], [Alto], [Media],
+    [R#{strfmt("{:02}", i); i += 1}], [Dificultades para obtener certificaciones regulatorias], [Crítico], [Media],
+    [R#{strfmt("{:02}", i); i += 1}], [Problemas en la cadena de suministro de componentes clave], [Alto], [Media-alta],
+    [R#{strfmt("{:02}", i); i += 1}], [Costes superiores a los presupuestados], [Medio], [Media],
+    [R#{strfmt("{:02}", i); i += 1}], [Rendimiento de batería inferior al esperado], [Alto], [Baja],
+    [R#{strfmt("{:02}", i); i += 1}], [Aceptación de usuario final inferior a la prevista], [Crítico], [Baja],
+    [R#{strfmt("{:02}", i); i += 1}], [Aparición de competidores con tecnologías similares], [Medio], [Media],
+  ),
+  caption: "Riesgos del sistema"
 )
 
 === Estrategias de Mitigación
