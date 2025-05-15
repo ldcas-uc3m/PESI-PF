@@ -1,16 +1,18 @@
 = Planificación del Proyecto
 // TODO: palabreo introductorio
 
+
 == Arquitectura del sistema
 // TODO
+
 
 
 == Estrategia de desarrollo
 // TODO
 
 
-== Fases del Proyecto y Cronograma
 
+== Fases del Proyecto y Cronograma
 El desarrollo del robot humanoide asistencial se estructurará en cinco fases principales, con una duración total estimada de 36 meses:
 
 === Fase 1: Investigación y Conceptualización (6 meses)
@@ -56,7 +58,7 @@ El desarrollo del robot humanoide asistencial se estructurará en cinco fases pr
 
 === Recursos Humanos
 
-El proyecto requiere un equipo multidisciplinar compuesto por 32 profesionales:
+El proyecto requiere un equipo multidisciplinar compuesto por 32 profesionales, como se muestra en la @tab:personal.
 
 #figure(
   table(
@@ -73,14 +75,14 @@ El proyecto requiere un equipo multidisciplinar compuesto por 32 profesionales:
     [Dirección de Proyecto], [Director de proyecto, PMO], [2],
     [Operaciones], [Especialistas en cadena de suministro y producción], [2],
   ),
-  caption: "Definición de los distintos departamentos"
-)
+  caption: "Personal asociado al proyecto"
+) <tab:personal>
 
 La estructura organizativa seguirá un modelo matricial, donde los miembros del equipo reportarán tanto a sus responsables funcionales como al director del proyecto.
 
 === Recursos Financieros
 
-El presupuesto total del proyecto asciende a 8,4 millones de euros, distribuidos de la siguiente manera:
+El presupuesto total del proyecto asciende a 8,4 millones de euros, los cuales serán distribuídos conforme a la @tab:presupuesto.
 
 #figure(
   table(
@@ -96,7 +98,7 @@ El presupuesto total del proyecto asciende a 8,4 millones de euros, distribuidos
     [Contingencia], [5%], [420.000],
   ),
   caption: "Presupuesto del proyecto"
-)
+) <tab:presupuesto>
 
 La financiación proviene de una combinación de capital propio de la empresa (40%), financiación externa de inversores (35%) y subvenciones de innovación (25%).
 

@@ -31,9 +31,7 @@ Nuestro proceso de validación comprende múltiples niveles. Iniciaremos con pru
 
 
 == Control de Calidad y Estándares
-
-=== Estándares Aplicables
-El proyecto se regirá por los siguientes estándares internacionales:
+El proyecto se regirá por los siguientes estándares internacionales mencionados en la @tab:estandares.
 
 #figure(
   table(
@@ -47,9 +45,9 @@ El proyecto se regirá por los siguientes estándares internacionales:
     [ISO/IEC 15288], [Ciclo de vida del software],
   ),
   caption: [Estándares internacionales aplicables al proyecto]
-)
+) <tab:estandares>
 
-=== Procedimientos de Control de Calidad
+Los procedimientos de Control de Calidad incluirán:
 - *Inspección de entrada*: Verificación de componentes y materiales de proveedores
 - *Control en proceso*: Puntos de inspección durante el ensamblaje y programación
 - *Pruebas finales*: Batería completa de pruebas funcionales y de seguridad
