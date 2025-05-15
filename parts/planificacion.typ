@@ -1,15 +1,59 @@
 = Planificación del Proyecto
-// TODO: palabreo introductorio
+El presente documento detalla la planificación completa del proyecto de desarrollo del robot humanoide asistencial HumaCare, estableciendo la arquitectura del sistema, estrategia de desarrollo, cronograma, y asignación de recursos necesarios para garantizar su ejecución exitosa dentro del plazo de 36 meses.
 
 
 == Arquitectura del sistema
-// TODO
 
+La arquitectura del sistema HumaCare se ha diseñado con un enfoque modular que permite la integración efectiva de múltiples subsistemas especializados. Este diseño facilita el desarrollo paralelo, la escalabilidad y el mantenimiento futuro. A continuación, se describen los componentes clave de la arquitectura a alto nivel:
+
+1. *HumaCare OS:* El núcleo del sistema basado en un kernel de tiempo real (RTOS como FreeRTOS o QNX) que garantiza respuestas deterministas para las funciones críticas. Incluye servicios de monitorización de salud que supervisan constantemente el estado del robot.
+
+2. *Sistemas de IA y Cognitivos:* Compuestos por un motor de procesamiento de lenguaje natural, un motor de visión artificial y un pipeline de entrenamiento de aprendizaje automático que permiten al robot comprender su entorno y adaptarse a nuevas situaciones.
+
+3. *Sistemas Sensoriales:* Un hub de fusión sensorial que integra datos de múltiples sensores (IMU, cámaras, micrófonos, sensores táctiles y de temperatura) para proporcionar una percepción completa del entorno.
+
+4. *Sistemas Mecánicos:* Sistema de planificación de movimiento y controladores de servomotores que coordinan los movimientos precisos y suaves del robot.
+
+5. *Gestión de Energía:* Sistema de gestión de baterías que optimiza el consumo energético y permite la recarga autónoma del robot.
+
+6. *Comunicación:* Infraestructura de red que permite la conectividad con dispositivos externos y servicios en la nube.
+
+7. *Interfaz de Usuario:* Interfaz multimodal que facilita la interacción natural entre el robot y los usuarios mediante voz, gestos y visualizaciones.
+
+8. *Integración Externa:* Gateway API para la integración con sistemas domóticos, dispositivos médicos y otros sistemas externos.
+
+9. *Servicios en la Nube:* Conexión con Azure Health Services para funcionalidades avanzadas de procesamiento, almacenamiento seguro de datos y actualizaciones de modelos de IA.
+
+
+#figure(
+  image("../img/component.svg", width: 90%),
+  caption: "Arquitectura del Sistema Robot Humanoide Asistencial"
+) <fig:arquitectura>
 
 
 == Estrategia de desarrollo
-// TODO
 
+La estrategia de desarrollo para el robot HumaCare se basa en un enfoque híbrido que combina metodologías ágiles para el desarrollo de software con un proceso de diseño en cascada modificado para los componentes hardware. Esta estrategia se articula en los siguientes principios:
+
+=== Metodología de desarrollo
+
+- *Desarrollo incremental e iterativo:* Cada subsistema se desarrollará mediante iteraciones cortas (sprints de 2-3 semanas) que permitirán validar funcionalidades de forma temprana y continua.
+  
+- *Integración continua:* Se implementarán procesos automatizados para integrar constantemente los distintos componentes, detectando incompatibilidades de forma temprana.
+
+- *Desarrollo basado en pruebas (TDD):* Especialmente para componentes software, se definirán pruebas antes del desarrollo para asegurar el cumplimiento de requisitos.
+
+=== Prototipado progresivo
+
+1. *Prototipos virtuales:* Simulaciones y modelos digitales que permitirán validar conceptos antes de la fabricación física.
+
+2. *Prototipos funcionales por subsistemas:* Desarrollo de componentes individuales para validar tecnologías específicas.
+
+3. *Prototipos integrales:* Versiones progresivamente más completas del robot que integran múltiples subsistemas.
+
+4. *Prototipos Alpha y Beta:* Versiones casi finales para pruebas internas y externas respectivamente.
+
+Esta estrategia nos permitirá mantener el equilibrio entre la innovación tecnológica necesaria y la fiabilidad esencial para un producto asistencial, facilitando la adaptación a los hallazgos que surjan durante el desarrollo sin comprometer los plazos del proyecto.
 
 
 == Fases del Proyecto y Cronograma
@@ -113,4 +157,21 @@ Para el desarrollo del proyecto se requerirán:
 
 
 == Proceso de implantación
-// TODO
+
+La implantación del robot humanoide asistencial HumaCare se realizará mediante un enfoque gradual y estructurado que permitirá minimizar riesgos y optimizar la aceptación del producto. Este proceso se ha diseñado considerando la sensibilidad del entorno de uso y la necesidad de garantizar una experiencia positiva tanto para los usuarios finales como para los profesionales sanitarios.
+
+=== Fase piloto
+
+La fase inicial de implantación consistirá en un despliegue controlado y supervisado del sistema en entornos seleccionados cuidadosamente. Durante un período de tres meses, implementaremos un número limitado de unidades (15-20 robots) en diferentes contextos asistenciales representativos. Este despliegue piloto nos permitirá validar exhaustivamente las funcionalidades del robot en condiciones reales de uso, y a través de una monitorización cercana, identificaremos posibles resistencias o barreras en la adopción, tanto técnicas como psicológicas, por parte de los diferentes perfiles de usuario. Uno de los aspectos más importantes de esta fase será la obtención de retroalimentación directa y detallada de los tres grupos clave de usuarios: pacientes que reciben la asistencia, cuidadores profesionales que supervisan el funcionamiento del robot, y personal técnico responsable del mantenimiento y configuración del sistema. Esta información será fundamental para realizar ajustes finales antes del despliegue a mayor escala.
+
+=== Implantación por fases
+
+Tras la evaluación y optimización derivada de la fase piloto, procederemos a un despliegue progresivo del sistema siguiendo una estrategia escalonada por entornos y regiones geográficas. La implantación se organizará en tres oleadas principales:
+
+La primera oleada se centrará en entornos domésticos particulares, donde las necesidades asistenciales son más predecibles y el entorno físico puede ser evaluado previamente. Comenzaremos con 100 unidades distribuidas en tres regiones europeas seleccionadas por su infraestructura sanitaria avanzada y receptividad a la innovación tecnológica.
+
+La segunda oleada, iniciada tres meses después, incluirá residencias asistenciales y centros de día, donde el robot deberá interactuar con múltiples usuarios y operar en espacios compartidos. Este despliegue comprenderá 200 unidades adicionales y se extenderá a cinco regiones europeas.
+
+La tercera y última oleada abarcará entornos hospitalarios, caracterizados por su mayor complejidad operativa y requisitos normativos más estrictos. Esta fase comenzará seis meses después del inicio de la implantación y comprenderá la instalación de otras 200 unidades en centros hospitalarios de referencia en ocho países europeos.
+
+Durante todo el proceso, mantendremos un sistema de soporte técnico reforzado y canales de comunicación directa con los usuarios para resolver rápidamente cualquier incidencia y capitalizar oportunidades de mejora.
