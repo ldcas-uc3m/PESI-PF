@@ -47,8 +47,7 @@ Nuestros valores principales son:
 
 
 == Modelo de negocio de la empresa
-
-// TODO: palabreo
+Para generar el modelo de negocio de la empresa, primero se realizó un análisis mediante el uso de un modelo Canvas, el cual se muestra en la @fig:canvas.
 
 #figure(
   image("/img/canvas.drawio.svg", width: 90%),
@@ -57,33 +56,21 @@ Nuestros valores principales son:
 
 
 === Cultura organizativa
-// TODO
+Nuestra cultura es el motor silencioso detrás de cada logro.
+Se busca inspirar y motivar a las personas para que realicen cambios positivos y significativos en sus vidas y en las organizaciones.
 
-// Valores Principales
-// - Innovación constante.
-// - Transparencia y honestidad.
-// - Enfoque en el cliente.
-// - Trabajo en equipo.
+Los valores principales son la innovación constante, dado que nos encontramos en un mercado de rápido crecimiento, la transparencia y la honestidad, los cuales, junto con el trabajo en equipo, generan un ambiente abierto para la innovación, y finalmente un enfoque en el cliente, ya que es quien mejor nos puede guiar hacia realizar un mejor producto.
 
+Nuestros principios de comportamiento son una comunicación abierta y directa, una tolerancia al error como aprendizaje, un compromiso con los resultados, y nunca olvidar la responsabilidad individual de cada miembro.
 
-// Principios de Comportamiento
-// - Comunicación abierta y directa.
-// - Tolerancia al error como aprendizaje.
-// - Compromiso con los resultados.
-// - Responsabilidad individual.
-
-// Estilo de liderazgo y toma de decisiones
-// - Liderazgo transformacional.
-// - Participación activa del equipo.
-// - Colaboración y toma de decisiones basadas en datos.
+El estilo de liderazgo es uno transformacional, en el cual se toman las decisiones con una participación activa del equipo, y siembre basado en los datos.
 
 
 === Modelo de dirección
-// TODO
+Humatek adopta un modelo de dirección matricial al ser el más adecuado para un entorno altamente innovador y multidisciplinar. Este enfoque permite combinar la especialización funcional en áreas clave como inteligencia artificial, robótica, diseño inclusivo y ética, con la flexibilidad de equipos de proyecto orientados al desarrollo de soluciones concretas. La coordinación fluida entre perfiles técnicos y sociales es esencial para ofrecer productos verdaderamente integrados y centrados en el usuario. La toma de decisiones es colaborativa y descentralizada, lo que favorece la agilidad en la innovación y la capacidad de adaptación a las demandas del sector sociosanitario. La visión estratégica se impulsa desde una dirección general con fuerte vinculación al entorno académico (Universidad Carlos III) y clínico, mientras que la gestión operativa se delega en equipos autónomos con alto nivel de responsabilidad y especialización.
 
 
 == Descripción general del proyecto
-
 El proyecto consiste en el desarrollo y lanzamiento al mercado de un robot humanoide de última generación diseñado específicamente para brindar asistencia personalizada a personas mayores y con diversidad funcional en entornos domésticos e institucionales. Este proyecto representa la materialización de nuestra visión empresarial, con lineas de investigación en inteligencia artificial, robótica avanzada e interfaces humano-máquina.
 
 === Objetivos del proyecto
@@ -94,4 +81,3 @@ Este proyecto representa la convergencia de nuestras cuatro líneas estratégica
 
 === Impacto esperado
 Aspiramos a transformar el paradigma actual del cuidado asistencial, ofreciendo una solución que no solo proporciona asistencia física sino también acompañamiento emocional. El proyecto busca incrementar la autonomía y calidad de vida de personas dependientes, a la vez que reduce la carga sobre cuidadores familiares y profesionales. Nuestro objetivo es disminuir los índices de soledad y sus efectos adversos sobre la salud, permitiendo a millones de personas, que de otro modo necesitarían cuidados en centros especializados, vivir en sus casas. Además, estamos comprometidos con crear un modelo económico sostenible que permita hacer accesible esta tecnología a sectores cada vez más amplios de la población, facilitando el acceso a soluciones de cuidado avanzadas.
-
