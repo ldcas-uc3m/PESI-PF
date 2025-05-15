@@ -11,24 +11,18 @@ En Humatek, nuestra visión es clara: crear un mundo donde cada persona pueda vi
 
 
 == Análisis interno y externo
-
-// TODO: palabreo
-
-En este apartado del documento se mostrarán los análisis internos y externos realizados con el objetivo de comprender en profundidad cuál es la situación actual de la empresa y su entorno. Con el fin de lograr esto, se ha llevado a cabo un análisis DAFO que nos permite identificar las diferentes debilidades, fortalezas, amenazas y oportunidades que enfrenta Humatek. Además se ha realizado un análisis PESTEL con el que se exploran los diferentes factores políticos, económicos, sociales, tecnológicos, ecológicos y legales los cuales pueden llegar a influir en gran medida al desarrollo de la organización.
-
-Primero se mostrara en análisis DAFO realizado para Humatek:
+En este apartado del documento se mostrarán los análisis internos y externos realizados con el objetivo de comprender en profundidad cuál es la situación actual de la empresa y su entorno. Con el fin de lograr esto, se ha llevado a cabo un análisis DAFO (@fig:dafo) que nos permite identificar las diferentes debilidades, fortalezas, amenazas y oportunidades que enfrenta Humatek. Además, se ha realizado un análisis PESTEL (@fig:pestel) con el que se exploran los diferentes factores políticos, económicos, sociales, tecnológicos, ecológicos y legales los cuales pueden llegar a influir en gran medida al desarrollo de la organización.
 
 #figure(
-  image("/img/DAFO.drawio.svg", width: 70%),
+  image("/img/DAFO.drawio.svg", width: 75%),
   caption: "Análisis DAFO"
 ) <fig:dafo>
 
-A continuación se muestra el análisis PESTEL realizado para Humatek:
-
 #figure(
-  image("/img/Pestel.drawio.svg", width: 70%),
+  image("/img/Pestel.drawio.svg", width: 85%),
   caption: "Análisis PESTEL"
-) <fig:dafo>
+) <fig:pestel>
+
 
 == Líneas estratégicas
 *Innovación Tecnológica Continua:* Desarrollar robots humanoides avanzados mediante investigación y desarrollo constante en inteligencia artificial y robótica. Invertir en I+D para mejorar la autonomía, empatía y eficiencia de nuestros robots.
