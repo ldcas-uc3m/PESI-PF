@@ -12,10 +12,17 @@ En Humatek, nuestra visión es clara: crear un mundo donde cada persona pueda vi
 
 == Análisis interno y externo
 
+// TODO: palabreo
+
 #figure(
   image("/img/DAFO.drawio.svg", width: 70%),
   caption: "Análisis DAFO"
 ) <fig:dafo>
+
+
+
+// TODO: PESTEL
+
 
 
 == Líneas estratégicas
@@ -47,10 +54,38 @@ Imaginamos un mundo donde la tecnología amplifica la humanidad, ofreciendo inde
 
 == Modelo de negocio de la empresa
 
+// TODO: palabreo
+
 #figure(
   image("/img/canvas.drawio.svg", width: 90%),
   caption: "Modelo de Negocio Canvas"
 ) <fig:canvas>
+
+
+=== Cultura organizativa
+// TODO
+
+// Valores Principales
+// - Innovación constante.
+// - Transparencia y honestidad.
+// - Enfoque en el cliente.
+// - Trabajo en equipo.
+
+
+// Principios de Comportamiento
+// - Comunicación abierta y directa.
+// - Tolerancia al error como aprendizaje.
+// - Compromiso con los resultados.
+// - Responsabilidad individual.
+
+// Estilo de liderazgo y toma de decisiones
+// - Liderazgo transformacional.
+// - Participación activa del equipo.
+// - Colaboración y toma de decisiones basadas en datos.
+
+
+=== Modelo de dirección
+// TODO
 
 
 == Descripción general del proyecto

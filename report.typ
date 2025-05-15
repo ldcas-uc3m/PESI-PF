@@ -17,11 +17,25 @@
   language: "es"
 )
 
+
 // show all instances of Humatek in oblique
 #show "Humatek": it => { text(it, style: "oblique") }
 
 // allow breakable tables
 // #show figure.where(kind: table): set block(breakable: true)
+
+
+// list of figures
+#outline(
+  title: [Lista de Figuras],
+  target: figure.where(kind: image),
+)
+
+// list of tables
+#outline(
+  title: [Lista de Tablas],
+  target: figure.where(kind: table),
+)
 
 
 #include("parts/introduccion.typ")
@@ -31,7 +45,5 @@
 #include("parts/seguimiento.typ")
 #include("parts/calidad.typ")
 #include("parts/cambios.typ")
-#include("parts/recursos.typ")
 #include("parts/comunicaciones.typ")
-#include("parts/cierre.typ")
 #include("parts/aprobacion.typ")

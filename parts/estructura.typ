@@ -1,6 +1,7 @@
 #import "/authors.typ": authors
 
 = Estructura Organizativa del Proyecto
+// TODO: palabreo
 
 // Organigrama del equipo del proyecto, incluyendo roles y responsabilidades.
 
