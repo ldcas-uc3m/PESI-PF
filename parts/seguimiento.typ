@@ -2,18 +2,26 @@
 
 
 = Seguimiento y Control
-// Procedimientos para monitorear y controlar el progreso del proyecto.
-// Seguimiento del valor conseguido
-// Evaluación periódica del cumplimiento de los hitos y el avance del trabajo.
 
 == Indicadores clave de rendimiento
-// TODO: KPIs
+Se establecerán unos indicadores clave de rendimiento (KPIs) para cada uno de los distintos departamentos:
+- *Gerencia:* Margen de beneficio neto, en puntos porcentuales, y ratio de
+  liquidez corriente
+- *Finanzas:* Obtención de los certificados ISO14001 (Gestión ambiental en
+  organizaciones) e ISO 50001 (Gestión de energía) y la satisfación de empleados
+  y su retención
+- *Desarrollo:* Número de patentes registradas y frecuencia de salida de nuevas
+  versiones del producto
+- *Operaciones:* Número de unidades producidas, ratio de unidades defectuosas, y
+  reducción de emisiones
+- *Ventas:* Valor del _pipeline_ de ventas, ratio de conversión de clientes,
+  tiempo de resolución de incidencias, número de bajas (_churm_), y satisfacción
+  de los clientes (NPS)
 
 
 == Plan de Gestión de Riesgos
 
 === Identificación de Riesgos
-
 Los principales riesgos identificados para el proyecto quedan recogidos en la @tab:riesgos.
 
 #let i = 1
@@ -38,7 +46,6 @@ Los principales riesgos identificados para el proyecto quedan recogidos en la @t
 
 
 === Estrategias de Mitigación
-
 Para los riesgos identificados, se implementarán las siguientes estrategias de mitigación:
 
 #let i = 1
@@ -52,12 +59,9 @@ Para los riesgos identificados, se implementarán las siguientes estrategias de 
 - *R#{strfmt("{:02}", i); i += 1} -- Competencia:* Monitorización constante del mercado, protección robusta de propiedad intelectual y estrategia de diferenciación clara en funcionalidades clave.
 - *R#{strfmt("{:02}", i); i += 1} -- Fuga de talento:* Se identificarán los empleados clave y se usarán estrategias de mentoría y de fidelización, además de poner un énfasis en realizar una documentación exhaustiva del proyecto.
 
-
-
 === Monitorización y Control de Riesgos
 Se establecerá un comité de gestión de riesgos que se reunirá quincenalmente para revisar el estado de los riesgos identificados, evaluar la efectividad de las medidas de mitigación implementadas, identificar nuevos riesgos potenciales y actualizar el registro y plan de respuesta a los mismos.
 
 El director del proyecto presentará mensualmente un informe de riesgos al comité directivo, destacando los riesgos críticos y las acciones tomadas para su mitigación.
 
 Se implementará un sistema de alerta temprana basada en indicadores clave de riesgo (KRIs) para cada categoría principal, permitiendo una respuesta proactiva ante desviaciones potenciales.
-
