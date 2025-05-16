@@ -287,12 +287,24 @@ cualquier incidencia y capitalizar oportunidades de mejora.
 
 
 === Valor conseguido
-Por último, realizaremos una simulación del valor conseguido después de la implantación.
+Por último, realizaremos una simulación del valor conseguido después de la
+implantación.
+
+Asumamos que el plan econímico de los próximos siete años es el siguiente:
+
+// esto es una guarrada, pero no tengo tiempo ni ganas de hacerlo mejor
+#image("../img/plan_economico.png")
+#v(.5cm)
+
 
 #let PV = int(587392)
 #let EV = int(617032)
 #let AC = int(596179)
-Si asumimos un valor planificado (PV) de $qty(PV, "euro")$, un valor obtenido (EV) de $qty(EV, "euro")$, y un coste actual (AC) de $qty(AC, "euro")$, podemos extraer las siguientes métricas clave: varianza de coste (CV), varianza de plazo (SV), índice de eficiencia de coste (CPI) e índice de eficiencia de plazo (SPI).
+Con ello obtenemos un valor planificado (PV) de $qty(PV, "euro")$, un valor
+obtenido (EV) de $qty(EV, "euro")$, y un coste actual (AC) de $qty(AC, "euro")$,
+podemos extraer las siguientes métricas clave: varianza de coste (CV), varianza
+de plazo (SV), índice de eficiencia de coste (CPI) e índice de eficiencia de
+plazo (SPI).
 
 $ "CV" = "EV" - "AC" = qty(#{EV - AC}, "euro") $
 $ "SV" = "EV" - "PV" = qty(#{EV - PV}, "euro") $
