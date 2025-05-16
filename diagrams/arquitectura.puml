@@ -1,0 +1,103 @@
+@startuml HumaCare Architecture
+title HumaCare Robot Architecture - Implementation View
+top to bottom direction
+
+' Use simplification notation
+skinparam componentStyle rectangle
+skinparam backgroundColor white
+skinparam padding 5
+skinparam noteBackgroundColor LightYellow
+skinparam noteBorderColor Gray
+
+package "HumaCare OS" as OS #LightYellow {
+  [Real-Time Kernel] as CoreController
+  [Health Monitoring Service] as SystemServices
+}
+
+package "AI & Cognitive Systems" as AI #LightBlue {
+  [NLP Engine] as Language
+  [Computer Vision Engine] as Vision
+  [ML Training Pipeline] as Learning
+}
+
+package "Sensory Systems" as Sensory #LightGreen {
+  [Sensor Fusion Hub] as Sensors
+}
+
+package "Mechanical Systems" as Mechanical #LightPink {
+  [Motion Planning System] as Movement
+  [Servo Controllers] as MotorDrivers
+}
+
+package "Power Management" as Power #LightGray {
+  [Battery Management System] as Energy
+}
+
+package "Communication" as Comm #LightCyan {
+  [Networking Stack] as Connectivity
+}
+
+package "User Interface" as UserInterface #FFCC99 {
+  [Multi-Modal Interface] as UI
+}
+
+package "External Integration" as ExternalSys #D0D0D0 {
+  [API Gateway] as External
+}
+
+cloud "Cloud Services" as CloudServices #E0E0FF {
+  [Azure Health Services] as Cloud
+}
+
+' Main system connections
+CoreController --> SystemServices : "health data"
+CoreController <--> Language : "linguistic data"
+CoreController <--> Vision : "visual data"
+CoreController <--> Movement : "movement commands"
+CoreController <--> Energy : "power status"
+CoreController <--> Connectivity : "network data"
+
+' Component connections
+Sensors --> Vision : "camera feed"
+Sensors --> CoreController : "sensor readings"
+Language <--> Learning : "training data"
+Vision <--> Learning : "visual patterns"
+Movement --> MotorDrivers : "PWM signals"
+Connectivity <--> External : "API calls"
+Connectivity <--> Cloud : "encrypted data"
+Language <--> UI : "speech I/O"
+Vision <--> UI : "visual feedback"
+External <--> Cloud : "telemetry"
+Learning <--> Cloud : "model updates"
+
+note bottom of CoreController
+  RTOS: FreeRTOS/QNX
+  Ensuring real-time response 
+  for critical functions
+end note
+
+note bottom of Sensors
+  IMU, Camera, Microphone,
+  Touch, Temperature
+end note 
+
+note bottom of Energy
+  Li-ion monitoring
+  Smart charging
+  Power distribution
+end note
+
+legend bottom right
+  |= Component |= Description |
+  |<#LightYellow>| Core System |
+  |<#LightBlue>| AI Subsystems |
+  |<#LightGreen>| Sensors |
+  |<#LightPink>| Motor Control |
+  |<#LightGray>| Power Systems |
+  |<#LightCyan>| Communication |
+  |<#FFCC99>| User Interface |
+  |<#D0D0D0>| External Systems |
+  |<#E0E0FF>| Cloud Services |
+endlegend
+
+@enduml
