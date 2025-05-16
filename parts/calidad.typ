@@ -11,8 +11,8 @@ La política de calidad de Humatek para el proyecto del robot humanoide asistenc
 
 == Enfoque de Gestión de Calidad
 Adoptamos un enfoque integral de calidad que abarca todo el ciclo de vida del producto, desde la conceptualización hasta el soporte post-lanzamiento. La calidad será responsabilidad de todos los miembros del equipo, liderados por el Departamento de Control de Calidad que reportará directamente al Director del Proyecto.
-Nuestro enfoque se basa en tres principios fundamentales:
 
+Nuestro enfoque se basa en tres principios fundamentales:
 1. *Prevención sobre corrección*: Identificar y abordar problemas potenciales antes de que ocurran
 2. *Mejora continua*: Revisar y optimizar constantemente procesos y resultados
 3. *Decisiones basadas en datos*: Utilizar métricas objetivas para evaluar la calidad
@@ -103,7 +103,6 @@ Para medir objetivamente la calidad del producto y del proyecto, utilizaremos la
 
 == Mejora Continua
 Implementaremos un proceso estructurado de mejora continua que incluye:
-
 - Reuniones semanales de revisión de calidad para analizar métricas y tendencias
 - Sistema de registro y gestión de lecciones aprendidas
 - Programa de sugerencias para mejoras de procesos y producto
