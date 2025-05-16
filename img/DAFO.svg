@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="606.71997"
+   height="452.16"
+   viewBox="0 0 606.71997 452.16"
+   sodipodi:docname="DAFO.drawio.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 78.125,56.25 H 1818.75 v 1300 H 78.125 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-20.122963,37.861116)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 78.125,56.25 H 1818.75 v 1300 H 78.125 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-20.122963,37.861116)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path15" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-20.122963,37.861116)"
+         clip-rule="evenodd"
+         id="path18" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath22">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path25" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-20.122963,37.861116)"
+         clip-rule="evenodd"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path30" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath35">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path35" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath38">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-20.122963,37.861116)"
+         clip-rule="evenodd"
+         id="path38" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path40" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath43">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path43" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath46">
+      <path
+         d="M 0,0 H 1895.9961 V 1412.9883 H 0 Z"
+         transform="matrix(0.36444445,0,0,0.36444445,-19.622962,38.361109)"
+         clip-rule="evenodd"
+         id="path46" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="606.71997"
+       height="452.16"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <g
+       id="g2">
+      <path
+         id="path2"
+         d="M 0,0 H 607 V 452 H 0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <path
+       id="path3"
+       d="M 10,60 H 640 V 530 H 10 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.668942,-33.243905)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="M 20,70 H 320 V 290 H 20 Z"
+       style="fill:#d5e8d4;fill-opacity:1;fill-rule:nonzero;stroke:#82b366;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.87804873,0,0,0.87804873,17.668942,-33.243905)"
+       clip-path="url(#clipPath6)" />
+    <g
+       id="g6">
+      <text
+         id="text6"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,131.47229,52.365852)"><tspan
+           id="tspan6"
+           style="font-variant:normal;font-weight:700;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 -0.89062518"
+           y="0">FORTALEZAS</tspan></text>
+    </g>
+    <path
+       id="path7"
+       d="m 57,136 c -4e-6,0.2652 -0.05075,0.52031 -0.152245,0.76535 -0.101497,0.24503 -0.246013,0.4613 -0.433548,0.64885 -0.187538,0.18753 -0.40382,0.33205 -0.648849,0.43353 C 55.520329,137.94923 55.265209,137.99998 55,138 c -0.265221,-2e-5 -0.520344,-0.0508 -0.765373,-0.15227 -0.24503,-0.10148 -0.461312,-0.246 -0.648846,-0.43353 -0.187538,-0.18755 -0.332054,-0.40382 -0.433548,-0.64885 C 53.050739,136.52031 52.999996,136.2652 53,136 c -4e-6,-0.26523 0.05074,-0.52036 0.152233,-0.7654 0.101494,-0.24502 0.24601,-0.4613 0.433548,-0.64883 0.187534,-0.18755 0.403816,-0.33206 0.648846,-0.43355 C 54.479656,134.05073 54.734779,134 55,134 c 0.265209,0 0.520329,0.0507 0.765358,0.15222 0.245029,0.10149 0.461311,0.246 0.648849,0.43355 0.187535,0.18753 0.332051,0.40381 0.433548,0.64883 C 56.949249,135.47964 56.999996,135.73477 57,136 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath8)" />
+    <g
+       id="g8">
+      <text
+         id="text8"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,88.36585)"><tspan
+           id="tspan8"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Innovación tecnológica: Desarrollo de robots</tspan></text>
+      <text
+         id="text9"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,100.65853)"><tspan
+           id="tspan9"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">humanoides centrados en la autonomía y</tspan></text>
+      <text
+         id="text10"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,113.82926)"><tspan
+           id="tspan10"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">empatía.</tspan></text>
+    </g>
+    <path
+       id="path10"
+       d="m 57,179 c -4e-6,0.26521 -0.05075,0.52032 -0.152245,0.76534 -0.101497,0.24504 -0.246013,0.46131 -0.433548,0.64886 -0.187538,0.18753 -0.40382,0.33205 -0.648849,0.43353 C 55.520329,180.94922 55.265209,180.99998 55,181 c -0.265221,-2e-5 -0.520344,-0.0508 -0.765373,-0.15228 -0.24503,-0.10149 -0.461312,-0.24599 -0.648846,-0.43352 -0.187538,-0.18755 -0.332054,-0.40382 -0.433548,-0.64886 C 53.050739,179.52032 52.999996,179.26521 53,179 c -4e-6,-0.26523 0.05074,-0.52036 0.152233,-0.7654 0.101494,-0.24502 0.24601,-0.4613 0.433548,-0.64883 0.187534,-0.18755 0.403816,-0.33205 0.648846,-0.43353 C 54.479656,177.05075 54.734779,177 55,177 c 0.265209,0 0.520329,0.0507 0.765358,0.15224 0.245029,0.10148 0.461311,0.24598 0.648849,0.43353 0.187535,0.18753 0.332051,0.40381 0.433548,0.64883 C 56.949249,178.47964 56.999996,178.73477 57,179 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath11)" />
+    <g
+       id="g11">
+      <text
+         id="text11"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,126.12195)"><tspan
+           id="tspan11"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Compromiso con la ética y la privacidad:</tspan></text>
+      <text
+         id="text12"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,138.41463)"><tspan
+           id="tspan12"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Protección de datos y diseño responsable.</tspan></text>
+    </g>
+    <path
+       id="path12"
+       d="m 57,208 c -4e-6,0.26521 -0.05075,0.52032 -0.152245,0.76534 -0.101497,0.24502 -0.246013,0.46131 -0.433548,0.64886 -0.187538,0.18753 -0.40382,0.33205 -0.648849,0.43353 C 55.520329,209.94923 55.265209,209.99998 55,210 c -0.265221,-2e-5 -0.520344,-0.0508 -0.765373,-0.15227 -0.24503,-0.10148 -0.461312,-0.246 -0.648846,-0.43353 -0.187538,-0.18755 -0.332054,-0.40384 -0.433548,-0.64886 C 53.050739,208.52032 52.999996,208.26521 53,208 c -4e-6,-0.26523 0.05074,-0.52036 0.152233,-0.7654 0.101494,-0.24501 0.24601,-0.46128 0.433548,-0.64883 0.187534,-0.18755 0.403816,-0.33206 0.648846,-0.43355 C 54.479656,206.05074 54.734779,206 55,206 c 0.265209,0 0.520329,0.0507 0.765358,0.15222 0.245029,0.10149 0.461311,0.246 0.648849,0.43355 0.187535,0.18755 0.332051,0.40382 0.433548,0.64883 C 56.949249,207.47964 56.999996,207.73477 57,208 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath13)" />
+    <g
+       id="g13">
+      <text
+         id="text13"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,151.58536)"><tspan
+           id="tspan13"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Sostenibilidad: Uso de materiales y procesos</tspan></text>
+      <text
+         id="text14"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,163.87804)"><tspan
+           id="tspan14"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">ecológicos en la fabricación de los robots.</tspan></text>
+    </g>
+    <path
+       id="path14"
+       d="m 57,237 c -4e-6,0.2652 -0.05075,0.52031 -0.152245,0.76532 -0.101497,0.24504 -0.246013,0.46135 -0.433548,0.6489 -0.187538,0.18753 -0.40382,0.33204 -0.648849,0.43353 C 55.520329,238.94923 55.265209,238.99998 55,239 c -0.265221,-2e-5 -0.520344,-0.0508 -0.765373,-0.15225 -0.24503,-0.10149 -0.461312,-0.246 -0.648846,-0.43353 -0.187538,-0.18755 -0.332054,-0.40384 -0.433548,-0.64888 C 53.050739,237.52031 52.999996,237.2652 53,237 c -4e-6,-0.26523 0.05074,-0.52036 0.152233,-0.76538 0.101494,-0.24503 0.24601,-0.4613 0.433548,-0.64884 0.187534,-0.18754 0.403816,-0.33206 0.648846,-0.43354 C 54.479656,235.05075 54.734779,235 55,235 c 0.265209,0 0.520329,0.0507 0.765358,0.15224 0.245029,0.10148 0.461311,0.246 0.648849,0.43354 0.187535,0.18754 0.332051,0.40381 0.433548,0.64884 C 56.949249,236.47964 56.999996,236.73477 57,237 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath15)" />
+    <g
+       id="g15">
+      <text
+         id="text15"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,177.04877)"><tspan
+           id="tspan15"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.66210884"
+           y="0">Colaboraciones estratégicas: Alianzas con</tspan></text>
+      <text
+         id="text16"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,189.34145)"><tspan
+           id="tspan16"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">universidades, centros de investigación y</tspan></text>
+      <text
+         id="text17"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,201.63414)"><tspan
+           id="tspan17"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">organismos de salud.</tspan></text>
+    </g>
+    <path
+       id="path17"
+       d="M 330,70 H 630 V 290 H 330 Z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:#d6b656;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.87804873,0,0,0.87804873,17.668942,-33.243905)"
+       clip-path="url(#clipPath18)" />
+    <g
+       id="g18">
+      <text
+         id="text18"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,402.98142,52.365852)"><tspan
+           id="tspan18"
+           style="font-variant:normal;font-weight:700;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">DEBILIDADES</tspan></text>
+    </g>
+    <path
+       id="path19"
+       d="m 367,136 c -3e-5,0.2652 -0.0508,0.52031 -0.15228,0.76535 -0.1015,0.24503 -0.246,0.4613 -0.43354,0.64885 -0.18756,0.18753 -0.40383,0.33205 -0.64886,0.43353 -0.24503,0.1015 -0.50012,0.15225 -0.76532,0.15227 -0.26523,-2e-5 -0.52039,-0.0508 -0.76541,-0.15227 -0.24503,-0.10148 -0.46131,-0.246 -0.64884,-0.43353 -0.18756,-0.18755 -0.33209,-0.40382 -0.43356,-0.64885 C 363.05072,136.52031 362.99997,136.2652 363,136 c -3e-5,-0.26523 0.0507,-0.52036 0.15219,-0.7654 0.10147,-0.24502 0.246,-0.4613 0.43356,-0.64883 0.18753,-0.18755 0.40381,-0.33206 0.64884,-0.43355 C 364.47961,134.05073 364.73477,134 365,134 c 0.2652,0 0.52029,0.0507 0.76532,0.15222 0.24503,0.10149 0.4613,0.246 0.64886,0.43355 0.18754,0.18753 0.33204,0.40381 0.43354,0.64883 0.1015,0.24504 0.15225,0.50017 0.15228,0.7654 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath20)" />
+    <g
+       id="g20">
+      <text
+         id="text20"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,88.36585)"><tspan
+           id="tspan20"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Barrera de entrada elevada: La investigación</tspan></text>
+      <text
+         id="text21"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,100.65853)"><tspan
+           id="tspan21"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 -0.66210914"
+           y="0">en IA y robótica requiere grandes inversiones.</tspan></text>
+    </g>
+    <path
+       id="path21"
+       d="m 367,165 c -3e-5,0.26521 -0.0508,0.52033 -0.15228,0.76535 -0.1015,0.24503 -0.246,0.4613 -0.43354,0.64885 -0.18756,0.18753 -0.40383,0.33205 -0.64886,0.43353 -0.24503,0.1015 -0.50012,0.15225 -0.76532,0.15227 -0.26523,-2e-5 -0.52039,-0.0508 -0.76541,-0.15227 -0.24503,-0.10148 -0.46131,-0.246 -0.64884,-0.43353 -0.18756,-0.18755 -0.33209,-0.40382 -0.43356,-0.64885 C 363.05072,165.52033 362.99997,165.26521 363,165 c -3e-5,-0.26523 0.0507,-0.52036 0.15219,-0.7654 0.10147,-0.24504 0.246,-0.46132 0.43356,-0.64883 0.18753,-0.18755 0.40381,-0.33206 0.64884,-0.43355 C 364.47961,163.05073 364.73477,163 365,163 c 0.2652,0 0.52029,0.0507 0.76532,0.15222 0.24503,0.10149 0.4613,0.246 0.64886,0.43355 0.18754,0.18751 0.33204,0.40379 0.43354,0.64883 0.1015,0.24504 0.15225,0.50017 0.15228,0.7654 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath22)" />
+    <g
+       id="g22">
+      <text
+         id="text22"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,113.82926)"><tspan
+           id="tspan22"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 -0.44531247"
+           y="0">Tiempo de adopción: La aceptación de la</tspan></text>
+      <text
+         id="text23"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,126.12195)"><tspan
+           id="tspan23"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">robótica en el cuidado asistencial puede ser</tspan></text>
+      <text
+         id="text24"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,138.41463)"><tspan
+           id="tspan24"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">lenta debido a barreras culturales.</tspan></text>
+    </g>
+    <path
+       id="path24"
+       d="m 367,208 c -3e-5,0.26521 -0.0508,0.52032 -0.15228,0.76534 -0.1015,0.24502 -0.246,0.46131 -0.43354,0.64886 -0.18756,0.18753 -0.40383,0.33205 -0.64886,0.43353 -0.24503,0.1015 -0.50012,0.15225 -0.76532,0.15227 -0.26523,-2e-5 -0.52039,-0.0508 -0.76541,-0.15227 -0.24503,-0.10148 -0.46131,-0.246 -0.64884,-0.43353 -0.18756,-0.18755 -0.33209,-0.40384 -0.43356,-0.64886 C 363.05072,208.52032 362.99997,208.26521 363,208 c -3e-5,-0.26523 0.0507,-0.52036 0.15219,-0.7654 0.10147,-0.24501 0.246,-0.46128 0.43356,-0.64883 0.18753,-0.18755 0.40381,-0.33206 0.64884,-0.43355 C 364.47961,206.05074 364.73477,206 365,206 c 0.2652,0 0.52029,0.0507 0.76532,0.15222 0.24503,0.10149 0.4613,0.246 0.64886,0.43355 0.18754,0.18755 0.33204,0.40382 0.43354,0.64883 0.1015,0.24504 0.15225,0.50017 0.15228,0.7654 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath25)" />
+    <g
+       id="g25">
+      <text
+         id="text25"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,151.58536)"><tspan
+           id="tspan25"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Dependencia de tecnología emergente: La</tspan></text>
+      <text
+         id="text26"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,163.87804)"><tspan
+           id="tspan26"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.6621083"
+           y="0">rápida evolución de la IA y la robótica exige</tspan></text>
+      <text
+         id="text27"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,177.04877)"><tspan
+           id="tspan27"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">actualizaciones constantes.</tspan></text>
+    </g>
+    <path
+       id="path27"
+       d="M 330,300 H 630 V 520 H 330 Z"
+       style="fill:#f8cecc;fill-opacity:1;fill-rule:nonzero;stroke:#b85450;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.87804873,0,0,0.87804873,17.668942,-33.243905)"
+       clip-path="url(#clipPath28)" />
+    <g
+       id="g28">
+      <text
+         id="text28"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,408.83965,254.31706)"><tspan
+           id="tspan28"
+           style="font-variant:normal;font-weight:700;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">AMENAZAS</tspan></text>
+    </g>
+    <path
+       id="path29"
+       d="m 367,366 c -3e-5,0.2652 -0.0508,0.52029 -0.15228,0.76532 -0.1015,0.24506 -0.246,0.46136 -0.43354,0.6489 -0.18756,0.1875 -0.40383,0.332 -0.64886,0.4335 -0.24503,0.1015 -0.50012,0.15225 -0.76532,0.15228 -0.26523,-3e-5 -0.52039,-0.0508 -0.76541,-0.15228 -0.24503,-0.1015 -0.46131,-0.246 -0.64884,-0.4335 -0.18756,-0.18754 -0.33209,-0.40384 -0.43356,-0.64887 C 363.05072,366.52032 362.99997,366.2652 363,366 c -3e-5,-0.26523 0.0507,-0.52039 0.15219,-0.76544 0.10147,-0.24503 0.246,-0.46128 0.43356,-0.64881 0.18753,-0.18753 0.40381,-0.33206 0.64884,-0.43353 C 364.47961,364.05075 364.73477,364 365,364 c 0.2652,0 0.52029,0.0507 0.76532,0.15222 0.24503,0.10147 0.4613,0.246 0.64886,0.43353 0.18754,0.18753 0.33204,0.40378 0.43354,0.64881 0.1015,0.24505 0.15225,0.50021 0.15228,0.76544 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath30)" />
+    <g
+       id="g30">
+      <text
+         id="text30"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,290.31706)"><tspan
+           id="tspan30"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Regulación estricta: Reglamento (UE)</tspan></text>
+      <text
+         id="text31"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,302.60974)"><tspan
+           id="tspan31"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.6621089"
+           y="0">2024/1689 (European AI</tspan></text>
+    </g>
+    <g
+       id="g31">
+      <text
+         id="text32"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,315.78047)"><tspan
+           id="tspan32"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Act)Competencia creciente: Empresas</tspan></text>
+      <text
+         id="text33"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,328.07315)"><tspan
+           id="tspan33"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">tecnológicas y startups también</tspan></text>
+    </g>
+    <g
+       id="g33">
+      <text
+         id="text34"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,340.36584)"><tspan
+           id="tspan34"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.66210836"
+           y="0">buscan innovar en este sector.</tspan></text>
+    </g>
+    <path
+       id="path34"
+       d="m 367,438 c -3e-5,0.26517 -0.0508,0.52026 -0.15228,0.76529 -0.1015,0.24502 -0.246,0.46133 -0.43354,0.64886 -0.18756,0.18753 -0.40383,0.33204 -0.64886,0.43354 -0.24503,0.1015 -0.50012,0.15228 -0.76532,0.15231 -0.26523,-3e-5 -0.52039,-0.0508 -0.76541,-0.15231 -0.24503,-0.1015 -0.46131,-0.24601 -0.64884,-0.43354 -0.18756,-0.18753 -0.33209,-0.40384 -0.43356,-0.64886 C 363.05072,438.52026 362.99997,438.26517 363,438 c -3e-5,-0.26523 0.0507,-0.52036 0.15219,-0.76538 0.10147,-0.24503 0.246,-0.4613 0.43356,-0.64884 0.18753,-0.18756 0.40381,-0.33209 0.64884,-0.43359 C 364.47961,436.05072 364.73477,436 365,436 c 0.2652,0 0.52029,0.0507 0.76532,0.15222 0.24503,0.10147 0.4613,0.246 0.64886,0.43356 0.18754,0.18754 0.33204,0.40378 0.43354,0.64881 0.1015,0.24505 0.15225,0.50018 0.15228,0.76541 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath35)" />
+    <g
+       id="g35">
+      <text
+         id="text35"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,353.53657)"><tspan
+           id="tspan35"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.66210902"
+           y="0">Retos en aceptación social: Algunos sectores</tspan></text>
+      <text
+         id="text36"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,365.82925)"><tspan
+           id="tspan36"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">pueden resistirse a la idea de robots en el</tspan></text>
+      <text
+         id="text37"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,348.25429,378.99998)"><tspan
+           id="tspan37"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">cuidado humano.</tspan></text>
+    </g>
+    <path
+       id="path37"
+       d="M 20,300 H 320 V 520 H 20 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.87804873,0,0,0.87804873,17.668942,-33.243905)"
+       clip-path="url(#clipPath38)" />
+    <g
+       id="g38">
+      <text
+         id="text38"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,120.24973,254.31706)"><tspan
+           id="tspan38"
+           style="font-variant:normal;font-weight:700;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">OPORTUNIDADES</tspan></text>
+    </g>
+    <path
+       id="path39"
+       d="m 57,366 c -4e-6,0.2652 -0.05075,0.52029 -0.152245,0.76532 -0.101497,0.24506 -0.246013,0.46136 -0.433548,0.6489 -0.187538,0.1875 -0.40382,0.332 -0.648849,0.4335 C 55.520329,367.94922 55.265209,367.99997 55,368 c -0.265221,-3e-5 -0.520344,-0.0508 -0.765373,-0.15228 -0.24503,-0.1015 -0.461312,-0.246 -0.648846,-0.4335 -0.187538,-0.18754 -0.332054,-0.40384 -0.433548,-0.64887 C 53.050739,366.52032 52.999996,366.2652 53,366 c -4e-6,-0.26523 0.05074,-0.52039 0.152233,-0.76544 0.101494,-0.24503 0.24601,-0.46128 0.433548,-0.64881 0.187534,-0.18753 0.403816,-0.33206 0.648846,-0.43353 C 54.479656,364.05075 54.734779,364 55,364 c 0.265209,0 0.520329,0.0507 0.765358,0.15222 0.245029,0.10147 0.461311,0.246 0.648849,0.43353 0.187535,0.18753 0.332051,0.40378 0.433548,0.64881 C 56.949249,365.47961 56.999996,365.73477 57,366 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath40)" />
+    <g
+       id="g40">
+      <text
+         id="text40"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,290.31706)"><tspan
+           id="tspan40"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Envejecimiento de la población: Crecimiento</tspan></text>
+      <text
+         id="text41"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,302.60974)"><tspan
+           id="tspan41"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">sostenido de personas mayores que</tspan></text>
+      <text
+         id="text42"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,315.78047)"><tspan
+           id="tspan42"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">requieren asistencia.</tspan></text>
+    </g>
+    <path
+       id="path42"
+       d="m 57,409 c -4e-6,0.26517 -0.05075,0.52029 -0.152245,0.76532 -0.101497,0.24499 -0.246013,0.46127 -0.433548,0.64883 -0.187538,0.18753 -0.40382,0.33204 -0.648849,0.43354 C 55.520329,410.94922 55.265209,410.99997 55,411 c -0.265221,-3e-5 -0.520344,-0.0508 -0.765373,-0.15228 -0.24503,-0.10153 -0.461312,-0.24604 -0.648846,-0.43357 -0.187538,-0.18756 -0.332054,-0.40384 -0.433548,-0.64886 C 53.050739,409.52026 52.999996,409.26517 53,409 c -4e-6,-0.26523 0.05074,-0.52036 0.152233,-0.76538 0.101494,-0.24506 0.24601,-0.46134 0.433548,-0.64884 0.187534,-0.18756 0.403816,-0.33209 0.648846,-0.43356 C 54.479656,407.05075 54.734779,407 55,407 c 0.265209,0 0.520329,0.0507 0.765358,0.15222 0.245029,0.10147 0.461311,0.246 0.648849,0.43356 0.187535,0.1875 0.332051,0.40378 0.433548,0.64884 C 56.949249,408.47964 56.999996,408.73477 57,409 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath43)" />
+    <g
+       id="g43">
+      <text
+         id="text43"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,328.07315)"><tspan
+           id="tspan43"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Aumento en la demanda de asistencia</tspan></text>
+      <text
+         id="text44"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,340.36584)"><tspan
+           id="tspan44"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           dx="0 0 0 0 0 0 0 0 -0.21679676 -1.3300781"
+           y="0">remota: Tendencia hacia soluciones</tspan></text>
+      <text
+         id="text45"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,353.53657)"><tspan
+           id="tspan45"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">tecnológicas en el cuidado domiciliario.</tspan></text>
+    </g>
+    <path
+       id="path45"
+       d="m 57,452 c -4e-6,0.26517 -0.05075,0.52029 -0.152245,0.76532 -0.101497,0.24503 -0.246013,0.4613 -0.433548,0.64886 -0.187538,0.18754 -0.40382,0.33204 -0.648849,0.43351 C 55.520329,453.94919 55.265209,453.99997 55,454 c -0.265221,-3e-5 -0.520344,-0.0508 -0.765373,-0.15231 -0.24503,-0.10147 -0.461312,-0.24597 -0.648846,-0.43351 -0.187538,-0.18756 -0.332054,-0.40383 -0.433548,-0.64883 C 53.050739,452.52029 52.999996,452.26517 53,452 c -4e-6,-0.26526 0.05074,-0.52042 0.152233,-0.76547 0.101494,-0.245 0.24601,-0.46125 0.433548,-0.64878 0.187534,-0.18756 0.403816,-0.33206 0.648846,-0.43353 C 54.479656,450.05075 54.734779,450 55,450 c 0.265209,0 0.520329,0.0507 0.765358,0.15222 0.245029,0.10147 0.461311,0.24597 0.648849,0.43353 0.187535,0.18753 0.332051,0.40378 0.433548,0.64881 C 56.949249,451.47958 56.999996,451.73474 57,452 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.87804873,0,0,0.87804873,17.229917,-33.682923)"
+       clip-path="url(#clipPath46)" />
+    <g
+       id="g46">
+      <text
+         id="text46"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,365.82925)"><tspan
+           id="tspan46"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Incentivos gubernamentales: Posibles ayudas</tspan></text>
+      <text
+         id="text47"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,378.99998)"><tspan
+           id="tspan47"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">y subvenciones para innovación en salud y</tspan></text>
+      <text
+         id="text48"
+         xml:space="preserve"
+         transform="matrix(0.87804873,0,0,0.87804873,76.059182,391.29266)"><tspan
+           id="tspan48"
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">asistencia.</tspan></text>
+    </g>
+  </g>
+</svg>

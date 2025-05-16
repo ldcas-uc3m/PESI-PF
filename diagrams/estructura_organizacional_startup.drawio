@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
+  <diagram name="Page-1" id="7UXzB2VIKJnH39WSFznw">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5wL55ZF0WUaf7k7UgQD-13" target="x5wL55ZF0WUaf7k7UgQD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5wL55ZF0WUaf7k7UgQD-13" target="x5wL55ZF0WUaf7k7UgQD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5wL55ZF0WUaf7k7UgQD-13" target="x5wL55ZF0WUaf7k7UgQD-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5wL55ZF0WUaf7k7UgQD-13" target="x5wL55ZF0WUaf7k7UgQD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-13" value="&lt;div&gt;&lt;b&gt;Gerente&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;Carlos Salinas&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Liderazgo general, visión, estrategia, captación de fondos.&lt;/li&gt;&lt;li&gt;Puede también involucrarse directamente en ventas, marketing o desarrollo de producto al principio.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="390" width="430" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-17" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Centro de Costos&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;spacing=11;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="350" width="459.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-18" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Centro de Ingresos&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;spacing=11;" vertex="1" parent="1">
+          <mxGeometry x="880" y="350" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-22" value="&lt;div&gt;&lt;b&gt;Operaciones &lt;/b&gt;(producción, cadena de suministro, atención al cliente)&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;lt;Luis Casais&amp;gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=17;spacing=0;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-24" value="&lt;div&gt;&lt;b&gt;Desarrollo de Producto &lt;/b&gt;(Robótica, IA, software, diseño)&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;lt;Jorge Santana y  y Lucas Gallego&amp;gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=22;spacing=0;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-25" value="&lt;div&gt;&lt;b&gt;Finanzas y Administración&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;Francisco Montañés&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=-21;spacing=0;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="211" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-27" value="&lt;div&gt;&lt;b&gt;Marketing y Ventas&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;lt;Diego Picazo&amp;gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=0;spacing=0;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="880" y="220" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-29" value="&lt;i&gt;Socios Fundadores&lt;/i&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x5wL55ZF0WUaf7k7UgQD-30" value="&lt;i&gt;Estructura de Costes e Ingresos&lt;/i&gt;" style="whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rG9FH-p-PkXC1k7LoeOK-1" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Centro de Ingresos&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;spacing=11;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-70" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dS9YThhB9J5Yn2JK83EB-1" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Centro de Invesión&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacingTop=0;spacing=11;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

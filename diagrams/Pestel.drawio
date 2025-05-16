@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+  <diagram name="Página-1" id="KQDYIZzab1s5SlYYewiA">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-15" value="Políticos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#A7A7FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-16" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Regulaciones sobre robótica y asistencia sanitaria&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-15">
+          <mxGeometry x="-20" y="40" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-17" value="&lt;ul&gt;&lt;li&gt;Incentivos gubernamentales para la tecnología asistencial&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-15">
+          <mxGeometry x="-20" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-18" value="&lt;ul&gt;&lt;li&gt;Potenciales barreras regulatorias&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-15">
+          <mxGeometry x="-20" y="120" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdmWpo-A0VNlDzlQSHFS-1" value="&lt;ul&gt;&lt;li&gt;Acceso a subvenciones públicas y fondos europeos&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-15">
+          <mxGeometry x="-20" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-19" value="Económicos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#C2FFBD;" vertex="1" parent="1">
+          <mxGeometry x="314" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-20" value="&lt;ul&gt;&lt;li&gt;El envejecimiento de la población crea un mercado creciente para soluciones de asistencia&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-19">
+          <mxGeometry x="-25" y="50" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-21" value="&lt;ul&gt;&lt;li&gt;Posibilidad de alianzas público-privadas con servicios de salud y residencias geriátricas&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-19">
+          <mxGeometry x="-25" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdmWpo-A0VNlDzlQSHFS-2" value="&lt;ul&gt;&lt;li&gt;Dependencia inicial de inversión pública y fondos de I+D&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-19">
+          <mxGeometry x="-25" y="160" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-24" value="Sociales" style="swimlane;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-25" value="&lt;ul&gt;&lt;li&gt;Aumento de la concienciación social&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-24">
+          <mxGeometry x="-25" y="40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-26" value="&lt;ul&gt;&lt;li&gt;Posibles reticencias culturales ante el uso de robots en el cuidado personal, especialmente en generaciones mayores.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-24">
+          <mxGeometry x="-25" y="100" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-27" value="&lt;ul&gt;&lt;li&gt;Relevancia del enfoque ético e inclusivo en el diseño para ganar confianza social&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-24">
+          <mxGeometry x="-25" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-29" value="Tecnológicos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-30" value="&lt;ul&gt;&lt;li&gt;Avances continuos en inteligencia artificial, robótica y sensores biométricos, que permiten soluciones más humanas y seguras.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-29">
+          <mxGeometry x="-25" y="50" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-31" value="&lt;ul&gt;&lt;li&gt;Ecosistema tecnológico en expansión&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-29">
+          <mxGeometry x="-25" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-32" value="&lt;ul&gt;&lt;li&gt;Riesgo de rápida obsolescencia tecnológica o dependencia de plataformas propietarias&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-29">
+          <mxGeometry x="-25" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-34" value="Ecológicos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="240" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-35" value="&lt;ul&gt;&lt;li&gt;Presión creciente por adoptar diseños sostenibles y materiales reciclables en hardware&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-34">
+          <mxGeometry x="-25" y="40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-36" value="&lt;ul&gt;&lt;li&gt;Oportunidad de diferenciarse con una propuesta de robótica ecodiseñada y de bajo consumo energético&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-34">
+          <mxGeometry x="-25" y="100" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-37" value="&lt;ul&gt;&lt;li&gt;Políticas de reciclaje&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-34">
+          <mxGeometry x="-25" y="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-38" value="&lt;ul&gt;&lt;li&gt;Uso responsable de baterías y componentes electrónicos&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-34">
+          <mxGeometry x="-25" y="170" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-39" value="Legales" style="swimlane;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-40" value="&lt;ul&gt;&lt;li&gt;Normativas sobre privacidad y protección de datos (GDPR)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-39">
+          <mxGeometry x="-25" y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-41" value="&lt;ul&gt;&lt;li&gt;Necesidad de adaptarse a normativas médicas y de dispositivos asistenciales si los robots intervienen en tareas críticas.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-39">
+          <mxGeometry x="-25" y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4xcO3Zxa15kBrKBXQhS6-42" value="&lt;ul&gt;&lt;li&gt;Desarrollo de marcos legales en evolución sobre la responsabilidad de sistemas autónomos.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4xcO3Zxa15kBrKBXQhS6-39">
+          <mxGeometry x="-25" y="160" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
